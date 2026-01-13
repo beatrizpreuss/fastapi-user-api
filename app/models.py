@@ -1,4 +1,4 @@
-# SQLAlchemy models
+# SQLAlchemy models (each class is a table)
 
 from sqlalchemy import Column, Integer, String
 from .database import Base
